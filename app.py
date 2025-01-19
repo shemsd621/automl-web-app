@@ -31,7 +31,7 @@ if choice == "Profiling":
     profile_report = df.profile_report()
     st_profile_report(profile_report)
 
-if choice == "ML":
+if choice == "Modelling":
     pass
 
 if choice == "Download":
